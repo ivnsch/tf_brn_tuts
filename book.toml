@@ -1,0 +1,6 @@
+[book]
+authors = ["Ivan Schuetz"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Burn Tutorials Port from Tensorflow"
